@@ -7,6 +7,28 @@ A custom wireless macro pad built using a Raspberry Pi Pico W, 6 mechanical swit
 
 <img width="1600" height="1201" alt="image" src="https://github.com/user-attachments/assets/facc65af-a38b-4bad-baee-f12efc2b8b05" />
 
+
+Important: How this project is built
+
+This is primarily a handwired macropad project
+
+The full working build you see here is made by manually wiring everything on a perfboard no PCB is required to build this. The goal was to learn hardware properly by doing things from scratch (wiring, debugging, soldering).
+
+A custom PCB was also designed, but it was not used in the final build
+
+Why the PCB exists:
+
+- optional cleaner/faster version of the same build
+- useful if you don’t want to deal with handwiring
+- planned as a future/improved version
+TLDR
+- Main build → Handwired (what this project uses)
+- PCB → Optional (not used here)
+
+
+
+
+
 This project focuses heavily on learning hardware prototyping, soldering, firmware development and designing :) 
 ps - I am quite new to hardware and there is a very cool upcoming hardware hackathon coming up so to start learning for that I started this project
 
