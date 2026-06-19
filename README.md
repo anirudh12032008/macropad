@@ -4,6 +4,7 @@ A custom wireless macro pad built using a Raspberry Pi Pico W, 6 mechanical swit
 
 [DEMO VIDEO on YT](https://youtu.be/4JAaVo-tPpQ) 
 
+<img width="1410" height="2000" alt="You A5 (4)" src="https://github.com/user-attachments/assets/4c5577cd-6b25-47bb-9a97-3abbddddffe5" />
 
 <img width="1600" height="1201" alt="image" src="https://github.com/user-attachments/assets/facc65af-a38b-4bad-baee-f12efc2b8b05" />
 
